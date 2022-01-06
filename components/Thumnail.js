@@ -1,3 +1,5 @@
+
+/* eslint-disable */
 import { ThumbUpIcon } from "@heroicons/react/outline";
 import Image from "next/image"
 import { forwardRef } from "react";
@@ -31,4 +33,4 @@ const Thumnail = forwardRef(({result}, ref) => {
     )
 })
 
-export default Thumnail
+export default Thumnail;

@@ -1,3 +1,5 @@
+
+/* eslint-disable */
 import Thumnail from "./Thumnail"
 import FlipMove from "react-flip-move"
 function Results({results}) {
@@ -10,4 +12,4 @@ function Results({results}) {
     )
 }
 
-export default Results
+export default Results;
